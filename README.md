@@ -7,10 +7,10 @@
 <ul>
   <li>💻 <strong>Currently Building:</strong> Scalable APIs and backend systems using Django and Django REST Framework (DRF).</li>
   <li>👥 <strong>Team Experience:</strong> Collaborated with frontend developers, QAs, and product teams to deliver backend services and document integration workflows.</li>
-  <li>🔁 <strong>Expanding Into:</strong> Frontend development with React — learning to build user-facing features that connect with my APIs.</li>
-  <li>🚀 <strong>Seeking:</strong> Internship or junior roles where I can contribute to real products, learn from experienced engineers, and grow fast.</li>
+  <li>🔁 <strong>Expanding Into:</strong> Frontend development with React learning to build user interface features that connect with my APIs.</li>
+  <li>🚀 <strong>Seeking:</strong> Internship or roles where I can contribute to real products, learn from experienced engineers, and grow fast.</li>
   <li>🧠 <strong>Actively Learning:</strong> Docker, Redis, React, and backend performance/security best practices.</li>
-  <li>⚡ <strong>Fun Fact:</strong> I enjoy cycling to school and solving bugs like puzzles — both keep me moving forward!</li>
+  <li>⚡ <strong>Fun Fact:</strong> I enjoy cycling to school and solving bugs like puzzles both keep me moving forward!</li>
 </ul>
 
 ----
