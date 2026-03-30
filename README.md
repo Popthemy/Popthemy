@@ -27,8 +27,6 @@ Currently strengthening my full-stack capabilities with **React** and **TypeScri
 - **E-commerce API** — Full DRF backend with RBAC, payments, and optimized queries
 - **Certificate Generator** — Built in collaboration with LinkedIn Local Nigeria (served 1,000+ users)
 
-→ Check out my [projects](#) or connect with me on [LinkedIn](https://linkedin.com/in/popoola-oluwatemilorun)
-
 ----
 
 <h3 align="left">📫 Connect with me:</h3>
@@ -49,6 +47,11 @@ Currently strengthening my full-stack capabilities with **React** and **TypeScri
 <a href="https://exercism.org/profiles/leeGreen" target="blank">
   <img src="https://img.shields.io/badge/Exercism-%234B24CC.svg?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism">
 </a>
+<a href="https://portfolio-temilorun-59ew.vercel.app" target="blank">
+  <img src="https://img.shields.io" alt="Portfolio">
+</a>
+
+
 </p>
 
 ---
