@@ -47,8 +47,8 @@ Currently strengthening my full-stack capabilities with **React** and **TypeScri
 <a href="https://exercism.org/profiles/leeGreen" target="blank">
   <img src="https://img.shields.io/badge/Exercism-%234B24CC.svg?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism">
 </a>
-<a href="https://portfolio-temilorun-59ew.vercel.app" target="blank">
-  <img src="https://img.shields.io/badge?style=for-the-badge&logo=adobeworkfront" alt="Portfolio">
+<a href="https://portfolio-temilorun-59ew.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" alt="Portfolio">
 </a>
 
 
