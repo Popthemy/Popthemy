@@ -10,7 +10,7 @@ I build products end to end: the Django/DRF backend, the payments and async syst
 
 ### Selected work
 
-- **[Inboxit](https://inboxit-frontend.vercel.app/)** (full-stack, deployed): a drop-in JavaScript widget plus Django API that turns any static site into one that can receive form submissions, with a developer dashboard to manage forms, API keys and analytics. No backend, SMTP or custom fetch code needed. Works with plain HTML, React and vanilla JS, and loads through a command queue so it never blocks the page.
+- **Inboxit** (full-stack, deployed): a drop-in JavaScript widget plus Django API ([backend](https://github.com/Popthemy/inboxit-backend)) that turns any static site into one that can receive form submissions, with a React + TypeScript developer dashboard ([live](https://inboxit-frontend.vercel.app/), [code](https://github.com/Popthemy/inboxit-frontend)) to manage forms, API keys and analytics. No backend, SMTP or custom fetch code needed. Works with plain HTML, React and vanilla JS, and loads through a command queue so it never blocks the page.
 - **[SendIT](https://senditt.com.ng/)** (private repo): 10+ domain apps covering shipments, escrow, wallet, disputes and insurance. One shared payment interface over Monnify, MyCover.ai and Pandascrow, with verified webhooks, idempotency and Celery reconciliation. Live carrier tracking on Channels, WebSockets and PostGIS, with GPS sanity checks.
 - **[EcoGather](https://github.com/Popthemy/EcoGather)**: QR-based event platform. Cut event verification from 11 DB queries to 5 and event setup time by 40%.
 - **Hostra**: pitched and shaped the concept for an AI-verified housing audit pipeline. The team took 1st place at the GDG Build with Gemma 4 Hackathon.
@@ -22,3 +22,4 @@ Python · Django · DRF · PostgreSQL/PostGIS · Redis/Celery · Channels · Doc
 ### Contact
 
 [Email](mailto:temilorunolamilekan2677@gmail.com) · [LinkedIn](https://linkedin.com/in/popoola-oluwatemilorun) · [Portfolio](https://portfolio-temilorun-59ew.vercel.app)
+
